@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474984745208",
+    "project_id": "corrida-facil",
+    "storage_bucket": "corrida-facil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474984745208:android:8721b472c3ab5788a2130d",
+        "android_client_info": {
+          "package_name": "com.example.corridafacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474984745208-0jsk73jcn34ki5f6dblbibu7h8dbi05c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.corridafacil",
+            "certificate_hash": "3c02ee97e2d961ea057d0529ce176703e87c097e"
+          }
+        },
+        {
+          "client_id": "474984745208-qk81951tegqj5v8qg587638293s3bns6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZe0eHVcj5JzFif1L3SJNLey3vm5Zd3tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474984745208-qk81951tegqj5v8qg587638293s3bns6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
